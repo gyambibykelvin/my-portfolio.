@@ -1,0 +1,41 @@
+#Portfolio Website
+This repository contains the source code for my personal portfolio website, created for educational purposes. The project demonstrates fundamental web development skills and serves as a foundation for showcasing future projects.
+
+##Features
+
+-Responsive layout for desktop and mobile
+
+-Clean design suitable for professional presentation
+
+-Sections for personal introduction, skills, projects, and contact information
+
+###Technologies Used
+
+-HTML5 – structure and semantics
+
+-CSS3 – styling and responsive design
+
+####Purpose
+
+This portfolio project is part of my educational journey as a software engineering student. It provides a practical way to apply concepts learned in class and practice modern web development.
+How to View
+Clone this repository:
+``bash
+git clone https://github.com/username/portfolio.git
+
+Navigate into the project folder:
+cd portfolio
+
+Open index.html in your browser.
+
+*Future Improvements*
+
+Add project filtering and search functionality
+
+Integrate a contact form with backend support
+
+Expand with animations and accessibility features
+
+####License
+
+*This project is for educational purposes only.*
